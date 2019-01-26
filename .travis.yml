@@ -1,1 +1,2 @@
 language: java
+script: javac "Java/Java Map/PhoneBook.java"
