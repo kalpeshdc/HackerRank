@@ -1,3 +1,4 @@
 language: java
-script: javac "Java/Java Map/PhoneBook.java"
-script: javac "Java/Java Stack/Solution.java"
+script:
+- javac "Java/Java Map/PhoneBook.java"
+- javac "Java/Java Stack/Solution.java"
